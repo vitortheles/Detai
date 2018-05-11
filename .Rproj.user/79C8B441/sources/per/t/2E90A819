@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525387584721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2545863202",
+    "id" : "2E90A819",
+    "lastKnownWriteTime" : 1525916965,
+    "last_content_update" : 1525916965799,
+    "path" : "~/detai/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "62,25",
+        "scrollLine" : "40"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

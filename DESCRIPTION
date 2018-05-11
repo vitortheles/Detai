@@ -1,0 +1,9 @@
+Package: detai
+Type: Shiny
+Title: DETAI - Determinação Ágil de Investimento
+Version: 0.1.0
+Author: person("Erick", "Tocafundo", email = "ercikmoreiratc@gmail", role = c("aut", "cre"))
+Description: Modelo de aplicação utilizando a teoria do portifólio para fins acadêmicos
+License: GNU AFFERO GENERAL PUBLIC LICENSE
+Maintainer: Erick Moreira Tocafundo <erickmoreiratc@gmail.com>
+LazyData: TRUE

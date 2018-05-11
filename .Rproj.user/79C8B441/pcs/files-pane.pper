@@ -1,0 +1,9 @@
+{
+    "path" : "~/detaiOtm",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
